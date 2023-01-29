@@ -3,11 +3,11 @@
 		"status": "1",
 		"toolbar": "true",
 		"navigation_drawer": "true",
-		"geolocation": "true",
+		"geolocation": "false",
 		"cache": "false",
 		"open_link_in_external_browser": "false",
 		"user_agent": "",
-		"privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+		"privacy_policy_url": "https://www.privacypolicygenerator.info/live.php?token=z58YzOFzYObOcbyv8ltQdNJddpcsLdsf",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=Fikra India",
 		"redirect_url": ""
 	},	
@@ -26,7 +26,7 @@
 		"onesignal_app_id": "ec066d17-e1c8-4d7e-8240-da6b14105ef8"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8936249544471578",
