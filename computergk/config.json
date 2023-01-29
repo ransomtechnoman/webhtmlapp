@@ -49,19 +49,19 @@
 		}
 	],
 	"notification": {
-		"fcm_notification_topic": "webdroid_topic",
-		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
+		"fcm_notification_topic": "COMPUTERGK2023webdroid_topic",
+		"onesignal_app_id": "ec066d17-e1c8-4d7e-8240-da6b14105ef8"
 	},
 	"ads": {
-		"ad_status": "1",
+		"ad_status": "0",
 		"ad_type": "admob",
 		"backup_ads": "none",
-		"admob_publisher_id": "pub-3940256099942544",
-		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"admob_publisher_id": "pub-8936249544471578",
+		"admob_app_id": "ca-app-pub-8936249544471578~8852771121",
+		"admob_banner_unit_id": "ca-app-pub-8936249544471578/7216820477",
+		"admob_interstitial_unit_id": "ca-app-pub-8936249544471578/9651412126",
+		"admob_native_unit_id": "ca-app-pub-8936249544471578/5907043581",
+		"admob_app_open_ad_unit_id": "#",
 		"ad_manager_banner_unit_id": "/6499/example/banner",
 		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
 		"ad_manager_native_unit_id": "/6499/example/native",
