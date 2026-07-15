@@ -8,38 +8,13 @@
     "open_link_in_external_browser": false,
     "zoom_controls": false,
     "user_agent": "",
-    "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
-    "more_apps_url": "",
+    "privacy_policy_url": "https://www.privacypolicygenerator.info/live.php?token=z58YzOFzYObOcbyv8ltQdNJddpcsLdsf",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=Fikra%20India",
     "redirect_url": ""
   },
   "intro": {
     "status": false,
-    "sliders": [
-      {
-        "title": "Welcome to WebDroid",
-        "message": "Native Android App based on WebView with excellent design, beautiful, elegant & clean",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider1.png",
-        "background_color": "ffffff"
-      },
-      {
-        "title": "Navigation menu",
-        "message": "WebDroid integrated with remote json so you can manage the navigation drawer item and url dynamically",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider2.png",
-        "background_color": "ffffff"
-      },
-      {
-        "title": "Push notification",
-        "message": "Integrated with FCM & OneSignal push notification to notify your users",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider3.png",
-        "background_color": "ffffff"
-      },
-      {
-        "title": "Multiple Ad Neworks",
-        "message": "Supports up to 9 ad networks from the most popular providers to make it easier to monetize your app",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider4.png",
-        "background_color": "ffffff"
-      }
-    ]
+    "sliders": []
   },
   "menus": [
     {
@@ -48,44 +23,16 @@
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
       "url": "https://llbwp.ransomtechnoman.com/",
       "url_dark": "https://llbwp.ransomtechnoman.com/"
-    },
-    {
-      "name": "Portfolio",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/portfolio.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
-    },
-    {
-      "name": "Testimonials",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/testimonials.html",
-      "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
-    },
-    {
-      "name": "Contact us",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/contact.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/contact.html"
-    },
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
-      "url": "privacy_policy.html",
-      "url_dark": "privacy_policy_dark.html"
     }
   ],
   "ads": {
     "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-    "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_banner_unit_id": "ca-app-pub-4622717589020330/8970519996",
+    "admob_interstitial_unit_id": "ca-app-pub-4622717589020330/5031274981",
+    "admob_native_unit_id": "ca-app-pub-4622717589020330/9791876568",
+    "admob_app_open_ad_unit_id": "",
     "ad_manager_banner_unit_id": "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
     "ad_manager_native_unit_id": "/6499/example/native",
@@ -113,12 +60,12 @@
     "native_ad_style_exit_dialog": "medium",
     "placement": {
       "banner_home": true,
-      "interstitial_drawer_menu": true,
+      "interstitial_drawer_menu": false,
       "interstitial_web_page_link": true,
-      "native_drawer_menu": true,
+      "native_drawer_menu": false,
       "native_exit_dialog": true,
-      "app_open_ad_on_start": true,
-      "app_open_ad_on_resume": true
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
     }
   }
 }
